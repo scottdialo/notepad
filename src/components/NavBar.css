@@ -1,0 +1,16 @@
+/* html {
+  background-color: green;
+} */
+
+.link {
+  color: white;
+  text-decoration: none;
+  padding: 0 10px;
+}
+.link:hover {
+  color: aqua;
+}
+
+button {
+  margin-top: 10px;
+}
